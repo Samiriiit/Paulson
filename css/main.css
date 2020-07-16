@@ -1,0 +1,158 @@
+	.card-title{
+	    font-family: 'Play', sans-serif;	
+	}
+	.parallax-container {
+	    min-height: 500px;
+	    line-height: 0;
+	    height: auto;
+	    color: rgba(255,255,255,.9);
+	}
+         p {
+             word-wrap: break-word;
+             font-weight: 300;
+             font-size: 18px;
+	     text-align:justify;
+         }
+
+         h2 {
+             font-family: 'Play', sans-serif;
+             font-weight: 100;
+             font-size: 35px;
+         }
+         .degree {
+             font-family: 'Raleway', 'sans-serif';
+             font-weight: 300;
+             font-size: 26px;
+         }
+
+         .desc {
+             font-family: "Open Sans Condensed", "sans-serif";
+             font-weight: 300;
+             font-size: 18px;
+         }
+         h3 {
+             font-family: "Roboto", "Arial";
+             font-weight: 300;
+             font-size: 17px;
+             line-height: 25px;
+             padding-top: 10px;
+         }
+
+	hr.heading {
+		height: 3px;
+		border: 1;
+		box-shadow: inset 0 9px 9px -3px rgba(33, 150, 243, 0.8);
+		-webkit-border-radius: 5px;
+		-moz-border-radius: 5px;
+		-ms-border-radius: 5px;
+		-o-border-radius: 5px;
+		border-radius: 5px;
+	}
+
+	hr {
+		box-shadow: inset 0 9px 9px -3px rgba(255, 255, 255, 0.8);
+	}
+
+         .landing {
+             min-height: 640px;
+             height: auto;
+             color: rgba(255, 255, 255, .9);
+             min-width: 100%;
+         }
+         .container {
+             margin-top: 70px;
+         }
+         .nav-wrapper li a {
+             color: #444;
+         }
+         .card {
+             position: relative;
+             border-radius: 8px;
+             box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.2), 0px 2px 6px rgba(0, 0, 0, 0.8);
+             overflow: hidden;
+         }
+         .card-simple {
+             position: relative;
+             border-radius: 8px;
+             box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.2), 0px 2px 6px rgba(0, 0, 0, 0.8);
+             overflow: hidden;
+         }
+         .links {
+             position: absolute;
+             top: ;
+             left: ;
+         }
+         .icon-setting {
+             padding: 20px;
+             font-size: 5rem;
+         }
+         .thanks-icons {
+             padding: 10px;
+             font-size: 4rem;
+         }
+         .icons {
+             display: inline-block;
+             border: 0;
+             position: relative;
+             -webkit-transition: all 180ms ease-in;
+             -webkit-transform: scale(1);
+             -ms-transition: all 180ms ease-in;
+             -ms-transform: scale(1);
+             -moz-transition: all 180ms ease-in;
+             -moz-transform: scale(1);
+             transition: all 180ms ease-in;
+             transform: scale(1);
+         }
+         .icons:hover {
+             z-index: 2;
+             -webkit-transition: all 180ms ease-in;
+             -webkit-transform: scale(1.3);
+             -ms-transition: all 180ms ease-in;
+             -ms-transform: scale(1.3);
+             -moz-transition: all 180ms ease-in;
+             -moz-transform: scale(1.3);
+             transition: all 180ms ease-in;
+             transform: scale(1.3);
+         }
+         .card {
+             -webkit-filter: grayscale(100%);
+             filter: grayscale(100%);
+         }
+         .card:hover {
+             -webkit-filter: grayscale(0%);
+             filter: grayscale(0%);
+             box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+         }
+         .gh-black {
+             background: #ffffff;
+             color: #000000;
+         }
+         .codepen-white {
+             color: #ffffff;
+             background: #000000;
+         }
+         li {
+             word-wrap: break-word;
+             font-weight: 300;
+             font-size: 18px;
+	     text-align:justify;
+         }
+         #logo-img {
+             padding: 20px;
+             // max-width: 75px;
+             //  max-height: 75x;
+         }
+         .social-btn {
+             width: 275px;
+         }
+         .btn {
+             text-transform: capitalize;
+             margin-top: 2.5px;
+             margin-bottom: 2.5px;
+         }
+         .collapsible-body {
+             background: white;
+         }
+         .collapsible-body > ul {
+             padding: 25px;
+         }
